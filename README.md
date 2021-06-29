@@ -1,6 +1,6 @@
 ## gnome-keyring-query
 
-## Simple cmdline interface to gnome-keyring
+### Simple cmdline interface to gnome-keyring
 
 ### Provides limited access to gnome-keyring
 
